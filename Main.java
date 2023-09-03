@@ -53,7 +53,9 @@ public class Main {
 ……
 9 x 3 = 27
          */
-
-
+        int k = 3;
+        for (i = 1; i < 10; i++) {
+            System.out.println(i + " x " + k + " = " + (i * k));
+        }
     }
 }
