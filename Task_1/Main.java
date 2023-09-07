@@ -1,3 +1,5 @@
+package Task_1;
+
 public class Main {
     public static void main(String[] args) {
         /*1. Вывести на экран слово “JAVA”, в строку, чтобы оно повторилось 10 раз, используя
